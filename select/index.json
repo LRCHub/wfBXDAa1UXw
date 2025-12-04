@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SABLE",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:39:07.758966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sable on Blond - 2016 Remaster",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/01_Sable_on_Blond_-_2016_Remaster_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sable Chino",
+      "artist": "Fito Páez",
+      "has_synced": true,
+      "path": "select/02_Sable_Chino_Fito_Páez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Le Sable mouvant",
+      "artist": "Keren Ann",
+      "has_synced": true,
+      "path": "select/03_Le_Sable_mouvant_Keren_Ann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prima notte d'amore (Enlacés sur le sable)",
+      "artist": "Al Bano & Romina Power",
+      "has_synced": true,
+      "path": "select/04_Prima_notte_d'amore_(Enlacés_sur_le_sable)_Al_Bano_&_Romina_Power.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prima notte d'amore (Enlaces sur le sable)",
+      "artist": "Al Bano & Romina Power",
+      "has_synced": true,
+      "path": "select/05_Prima_notte_d'amore_(Enlaces_sur_le_sable)_Al_Bano_&_Romina_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "artist": "Japanese Breakfast",
+      "has_synced": true,
+      "path": "select/06_Glider_-_from__Sable__Original_Video_Game_Soundtrack_Japanese_Breakfast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DASH DASH RAINBOW (feat. Blackened & Sable)",
+      "artist": "Princewhateverer",
+      "has_synced": false,
+      "path": "select/07_DASH_DASH_RAINBOW_(feat._Blackened_&_Sable)_Princewhateverer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FRIENDSHIP (feat. Sable Symphony)",
+      "artist": "Princewhateverer",
+      "has_synced": true,
+      "path": "select/08_FRIENDSHIP_(feat._Sable_Symphony)_Princewhateverer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Odds Against Us (feat. Sable Symphony)",
+      "artist": "Princewhateverer feat. Sable Symphony",
+      "has_synced": true,
+      "path": "select/09_Odds_Against_Us_(feat._Sable_Symphony)_Princewhateverer_feat._Sable_Symphony.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reparation (The Sorrow) [feat. Sable Symphony]",
+      "artist": "Princewhateverer/Sable Symphony",
+      "has_synced": true,
+      "path": "select/10_Reparation_(The_Sorrow)_[feat._Sable_Symphony]_Princewhateverer_Sable_Symphony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sable",
+      "artist": "Jim Johnston",
+      "has_synced": false,
+      "path": "select/11_Sable_Jim_Johnston.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sable",
+      "artist": "WWE & Jim Johnston",
+      "has_synced": false,
+      "path": "select/12_Sable_WWE_&_Jim_Johnston.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Les châteaux de sable",
+      "artist": "Co&Jane",
+      "has_synced": true,
+      "path": "select/13_Les_châteaux_de_sable_Co&Jane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wander in Sable",
+      "artist": "Lord of the Lost",
+      "has_synced": false,
+      "path": "select/14_Wander_in_Sable_Lord_of_the_Lost.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wander in Sable : Wander in Sable",
+      "artist": "Lord Of The Lost",
+      "has_synced": false,
+      "path": "select/15_Wander_in_Sable___Wander_in_Sable_Lord_Of_The_Lost.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Restoration (The Awakening) [feat. Sable Symphony & Nrgpony]",
+      "artist": "Princewhateverer/Nrgpony/Sable Symphony",
+      "has_synced": true,
+      "path": "select/16_Restoration_(The_Awakening)_[feat._Sable_Symphony_&_Nrgpony]_Princewhateverer_Nrgpony_Sable_Symphony.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sable",
+      "artist": "L'Or du Commun feat. Lous and The Yakuza",
+      "has_synced": true,
+      "path": "select/17_Sable_L'Or_du_Commun_feat._Lous_and_The_Yakuza.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SABLE",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_SABLE_ナノ.txt"
+    }
+  ]
+}
