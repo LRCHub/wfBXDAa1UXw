@@ -1,0 +1,111 @@
+# ナノ – SABLE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You lose your mind, you crash
+A nervous breakdown
+You feel an urge inside, you cru
+sh
+There's no escape now
+You try to change your life, you
+jump
+Another letdown
+But then you hear a voice inside
+You gotta open up your vision
+See the life bestowed on you
+Blinded by reality
+Broken ideology
+Heart in captivity
+Hold on
+Exceeding the borders within
+Seize your capability
+Endless possibility
+Find your individuality
+Take pride, let the chase begin
+Don't tell me what direction you
+think I should take
+(I know I'm gonna find the way)
+Don't tell me that this sable is
+for my own sake
+(Hear what I've got to say)
+Don't tell me to believe the dec
+isions you make
+(I'm facing a new day)
+So open up your blinded eyes
+Stop living a lie and start livi
+ng your life
+My way or no way
+Today you're falling away
+My way or no way
+Today I'm breaking away
+You need a sign, you search
+You're burning out
+Your heart is run down
+A system shut down
+All you want is to face the fata
+l error
+You'll never backdown
+'Cause it's now that you know th
+e time is right
+You gotta lead a revolution
+Believe the only light in you
+Look now, my sweetest fantasy is
+blinding your reality
+I'm breaking down the walls surr
+ounding
+your riduculously boring ideolog
+y
+First chance, you let it slip aw
+ay
+One chance, you don't want to th
+row away
+Fate is turning, returning to yo
+u square one
+Get set and the game begins
+Don't tell me that I'm making an
+other mistake
+(I know I'm gonna find the way)
+Don't tell me that I'll end in a
+nother heartache
+(Hear what I've got to say)
+Don't tell me that today is alre
+ady too late
+(I'm facing a new day)
+So open up your blinded eyes
+Stop living a lie and start livi
+ng your life
+Not everything is always what it
+seems
+But there are things beyond what
+you could see
+It doesn't mean that all the cri
+tical things are lost
+It doesn't take defiance to be h
+eard
+You never needed the anger to mo
+ve on
+All you need is the will to hold
+on
+Last chance
+Take it or leave it
+Nothing begins if you don't see
+it
+This is how your life goes
+Don't tell me what direction you
+think I should take
+(I know I'm gonna find the way)
+Don't tell me that this sable is
+for my own sake
+(Hear what I've got to say)
+Don't tell me to believe the dec
+isions you make
+(I'm facing a new day)
+So open up your blinded eyes
+Stop living a lie and start livi
+ng your life
+My way or no way
+Today you're falling away
+My way or no way
+Today I'm breaking away
+```
